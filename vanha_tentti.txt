@@ -1,0 +1,16 @@
+1) REKURSIIVINEN FUNKTIO
+	-"onko_palindromi()"
+
+2) LINKITETTY LISTARAKENNE
+	-"alkioiden_lukumäärä()"
+	-"poista_viimeisimpana_lisatty()"
+
+3) YKSIKKÖMUUNNOS -TEHTÄVÄ
+	km <->  m
+	cm <->  m
+	m  <->  tuuma <-> maili
+
+	a) STL -säiliö
+	b) "lisaa_saanto()"
+	c) "naapurit()"
+	d) "muunna()"
